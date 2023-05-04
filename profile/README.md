@@ -1,1 +1,1 @@
-![MyFursona GH Banner](https://user-images.githubusercontent.com/94678583/211129637-da69650e-779e-4c22-9dda-aaefad741ebb.png)
+![MyFursona GH Banner](https://user-images.githubusercontent.com/94678583/236108709-f581295e-2d0d-41ad-bdde-f0aa8db70907.png)
