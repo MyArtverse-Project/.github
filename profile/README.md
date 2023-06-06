@@ -6,6 +6,6 @@ Progress is still ongoing as we're only 3 passionate developers from around the 
 
 ## Infrastructure
 
-- We use TypeScript and Python as our programming languages; Nuxt 3 to build the site; Vercel and Cloudflare to currently host the site; Stripe and PayPal for processing payments; and PostgresQL as our database! We're still not sure where we host our backend yet, either looking at platforms such as DigitalOcean or ory.sh.
+- We use TypeScript and Python as our programming languages; Nuxt 3 to build the site; Vercel and Cloudflare to currently host the site; Stripe and PayPal for processing payments; and PostgresQL as our database! Our backend uses [ory.sh](https://ory.sh) for authentication, and we're unsure where to host our backend and database yet.
   
-- We also use Python for advanced image manipulation and our recommendation algorithm.
+- We use Python for advanced image manipulation and its color picking algorithm for ref sheets.
