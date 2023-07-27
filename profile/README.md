@@ -1,8 +1,10 @@
 ![MyFursona GH Banner](https://user-images.githubusercontent.com/94678583/236108709-f581295e-2d0d-41ad-bdde-f0aa8db70907.png)
 
-**MyFursona** is a work-in-progress open-source platform to keep track of your fursonas, adopts, and artist commissions! Using modern web technologies, our goal is to make sharing ref sheets, managing art commissions to artists, and adoptables a breeze!
+## About MyFursona
 
-Progress is still ongoing as we're only 3 passionate developers from around the world making this project a reality; if you'd like to help out with the development process, feel free to open a pull request! Any type of feedback is appreciated!
+**MyFursona** is a work-in-progress platform to keep track of your fursonas, adopts, and artist commissions! Using modern, bleeding-edge web technologies, we aim to make sharing ref sheets, managing art commissions to artists, and adoptables a breeze!
+
+Progress is still ongoing as we're only a group of a few passionate developers from around the world making this project a reality; if you'd like to help out with the development process, feel free to open a pull request! Any feedback is appreciated!
 
 ## Infrastructure
 
@@ -12,3 +14,9 @@ Progress is still ongoing as we're only 3 passionate developers from around the 
 - 🔓 Security: Auth.js, hCaptcha, Cloudflare
 - 💵 Payment processors: PayPal, Stripe
 - 🚀 Deployments: Vercel, Cloudflare
+
+## Privacy
+
+We don't track users' privacy! Our analytics tool, Umami, only monitors basic metrics like page views, device info, and operating systems. All data is anonymized, and we never retain any sensitive information. It complies with GDPR, and no additional info is tracked beyond what was mentioned.
+
+We value our users' privacy and choices. If a user chooses to delete their account, we fully comply with GDPR and erase all data from our database.
