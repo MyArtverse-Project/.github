@@ -22,4 +22,6 @@ WIP
 
 ## Privacy
 
-We don't track users' privacy and we value and commit to our users' privacy and choices. If a user chooses to delete their account, we fully comply with GDPR and erase all data from our infrastructure. Our analytics tool, Umami, only monitors basic metrics like page views, device info, and operating systems. All data is anonymized and we don't sell the data to any third party entity, and we never retain any sensitive information on MyFursona. It complies with GDPR, and no additional info is tracked beyond what was mentioned.
+We don't track users' privacy and we value and commit to our users' privacy and choices. If a user chooses to delete their account, we fully comply with GDPR and erase all data from our infrastructure. 
+
+Our analytics tool, Umami, only monitors basic metrics like page views, device info, and operating systems. All data is anonymized and we don't sell the data to any third party entity, and we never retain any sensitive information on MyFursona. It complies with GDPR, and no additional info is tracked beyond what was mentioned.
