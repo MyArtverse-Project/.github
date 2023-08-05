@@ -13,10 +13,10 @@ WIP
 
 ## Infrastructure
 
-- ⌨️ Languages: TypeScript, Python, Dart
+- ⌨️ Languages: TypeScript, Python, Go, Dart
 - 🖥️ Frontend: Next.js, Tailwind CSS, Flutter
 - 🗄️ Backend: GraphQL, PostgreSQL, Redis, Prisma, Fastify
-- 🔓 Security: Auth.js, hCaptcha, Cloudflare
+- 🔓 Security: hCaptcha, Cloudflare
 - 💵 Payment processors: PayPal, Stripe
 - 🚀 Deployments: Vercel, Cloudflare
 
