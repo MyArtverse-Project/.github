@@ -9,16 +9,16 @@
 
 ## Infrastructure
 
-- ⌨️ Languages: TypeScript, Python, Go, Dart
-- 🖥️ Frontend: Next.js, Tailwind CSS, Flutter
-- 🗄️ Backend: GraphQL, PostgreSQL, Redis, Prisma, Fastify, Cloudflare R2
-- 🔓 Security: hCaptcha, Cloudflare
-- 💵 Payment processors: PayPal, Stripe
-- 🚀 Deployment: Vercel, Cloudflare
-- 📊 Analytics: Umami, Microsoft Clarity
+- ⌨️ **Languages:** TypeScript, Python, Go, Rust
+- 🖥️ **Frontend:** Next.js, Tailwind CSS, Tauri
+- 🗄️ **Backend:** GraphQL, PostgreSQL, Redis, Prisma, Cloudflare R2
+- 🔓 **Security:** hCaptcha, Cloudflare
+- 💵 **Payment processors:** PayPal and Stripe
+- 🚀 **Deployment:** Vercel, Cloudflare
+- 📊 **Analytics and monitoring:** Umami, Microsoft Clarity, UptimeRobot
 
 ## Privacy
 
-<ins>We value our users' privacy.</ins> Our analytics tool, Umami, only monitors basic metrics like page views, device info, and operating systems. All data is anonymized and we don't sell the data to any third party entity, and we never retain any sensitive information on MyFursona. It complies with GDPR, and no additional info is tracked beyond what was mentioned.
+<strong><ins>We value our users' privacy.</ins></strong> Our analytics tool, Umami, only monitors basic metrics like page views, device info, and operating systems. All data is anonymized and we don't sell the data to any third party entity, and we never retain any sensitive information on MyFursona. It complies with GDPR, and no additional info is tracked beyond what was mentioned.
 
 If a user chooses to delete their account from the platform, we fully comply with GDPR and erase all data from our infrastructure. 
