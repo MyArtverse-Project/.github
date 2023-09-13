@@ -29,6 +29,7 @@ Learn more about our development history [here][mf-blog]!
 - 💵 **Payment processors:** PayPal, Stripe, Square, and Klarna
 - 🚀 **Deployment:** Contabo, Vercel, and Cloudflare
 - 📊 **Analytics and monitoring:** Umami, Microsoft Clarity, UptimeRobot
+- 📚 **Content management system:** Contentful
 
 [mf-blog]: https://blog.kurojifusky.com/post/a-new-chapter-for-myfursona
 [mfw]: https://github.com/MyFursona-Project/MyFursona
