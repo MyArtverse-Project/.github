@@ -11,14 +11,13 @@ Learn more about our development history [here][mf-blog]!
 
 ## Projects
 
-- [**MyFursona**][mfw]
-  - A web and desktop platform written in Next.js, Tailwind CSS, and Tauri; licensed under Apache-2.0
-- **Biro UI**
-  - An in-house design system built in React and Tailwind CSS created by [Kuroji Fusky][kf], built as a part of MyFursona
-- [**MyFursona Backend**][mfb]
-  - Backend of MyFursona built from the ground up in Go; licensed under MIT
-- [**Toyhou.se Crawler**][thc]
-  - A web crawler for scraping and parsing toyhou.se data written in Python; licensed under GPLv3
+| Title                        | Description                                                                                                           | License    |
+|:-----------------------------|:----------------------------------------------------------------------------------------------------------------------|:-----------|
+| [**MyFursona**][mfw]         | A web and desktop platform written in Next.js, Tailwind CSS, and Tauri                                                | Apache-2.0 |
+| **Biro UI**                  | An in-house design system built in React and Tailwind CSS created by [Kuroji Fusky][kf], built as a part of MyFursona | Apache-2.0 |
+| [**MyFursona Backend**][mfb] | Backend of MyFursona built from the ground up in Go                                                                   | MIT        |
+| [**Toyhou.se Crawler**][thc] | A web crawler for scraping and parsing toyhou.se data written in Python                                               | GPL-2.0    |
+| [**Image Utilities**][iu]    | An internal tool used to parse and generate images in different proprietary formats in bulk written in Python         | GPL-2.0    |
 
 ## Infrastructure
 
@@ -35,4 +34,5 @@ Learn more about our development history [here][mf-blog]!
 [mfw]: https://github.com/MyFursona-Project/MyFursona
 [mfb]: https://github.com/MyFursona-Project/Backend
 [thc]: https://github.com/MyFursona-Project/toyhouse-crawler
+[iu]: https://github.com/MyFursona-Project/image-utils
 [kf]: https://github.com/kuroji-fusky
