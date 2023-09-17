@@ -2,12 +2,9 @@
 
 ## About MyFursona
 
-**MyFursona** is a work-in-progress open-source social media platform to keep track of your fursonas, adopts, and artist commissions! Using modern, bleeding-edge web technologies, we aim to make sharing ref sheets, managing art commissions to artists, and adoptables a breeze!
+**MyFursona** is a work-in-progress open-source social media platform to keep track of your fursonas, adopts, and artist commissions! Using modern, bleeding-edge web technologies, we aim to make sharing ref sheets, managing art commissions to artists, and adoptables a breeze - combining the likes of FurAffinity and Toyhou.se!
 
 Learn more about our development history [here][mf-blog]!
-
-> **Important**
-> Progress on the project is still ongoing as we're only a group of a few passionate developers from around the world making this project a reality; if you'd like to help out with the development process, feel free to open a pull request! Any feedback is appreciated!
 
 ## Projects
 
@@ -27,8 +24,13 @@ Learn more about our development history [here][mf-blog]!
 - 🔒 **Security:** hCaptcha, Cloudflare
 - 💵 **Payment processors:** PayPal, Stripe, Square, and Klarna
 - 🚀 **Deployment:** Contabo, Vercel, and Cloudflare
-- 📊 **Analytics and monitoring:** Umami, Microsoft Clarity, UptimeRobot
+- 📊 **Analytics and monitoring:** Umami, Microsoft Clarity, Instatus
 - 📚 **Content management system:** Contentful
+
+## Resources
+
+- [🟢 Our status page][is]
+- [👨‍💻 MyFursona's timeline of developments][mf-blog]
 
 [mf-blog]: https://blog.kurojifusky.com/post/a-new-chapter-for-myfursona
 [mfw]: https://github.com/MyFursona-Project/MyFursona
@@ -36,3 +38,4 @@ Learn more about our development history [here][mf-blog]!
 [thc]: https://github.com/MyFursona-Project/toyhouse-crawler
 [iu]: https://github.com/MyFursona-Project/image-utils
 [kf]: https://github.com/kuroji-fusky
+[is]: https://myfursona.instatus.com
