@@ -22,9 +22,9 @@ Our mission to make sharing ref sheets, managing art commissions to artists, and
 
 ![Banner January 2024 alt](https://github.com/MyFursona-Project/.github/assets/94678583/2e720010-d480-45b2-904e-2f6971036645)
 
-Nowadays, most artists then jump from numerous platforms such as a dedicated website they built from Caard, WordPress, Webflow, etc., to manage commission queues and statuses on a kanban-style list app like Trello, and whatever social media the artist prefers to communicate between the client and the artist.
+Nowadays, most artists jump from numerous platforms such as a dedicated website they built from Caard, WordPress, Webflow, etc., to manage commission queues and statuses on a Kanban-style list app like Trello, and whatever social media the artist prefers to communicate between the client and the artist.
 
-In terms of practicality, an artist's productivity is effectively decreased hopping from platform to platform and there's no way to set things automatically (e.g. when the user fulfills payment, then adds the user to the queue) and have to do things manually unless they have the technical knowhow to write a script that suits their workflow.
+In terms of practicality, an artist's productivity is effectively decreased by hopping from platform to platform and there's no way to set things automatically (e.g. when the user fulfills payment, then adds the user to the queue) and have to do things manually unless they have the technical knowhow to write a script that suits their workflow.
 
 So we created MyFursona; a platform that automates commission management, communication with clients, and more. It seeks to eliminate manual work by consolidating tedious tasks into one platform. This means artists can focus more on their craft and let MyFursona handle the rest!
 
